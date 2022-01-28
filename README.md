@@ -1,2 +1,3 @@
+
 # DigiLoan
-Platform for lending and borrowing crypto currency
+Platform for lending and borrowing crypto currencies.
